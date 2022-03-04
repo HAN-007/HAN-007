@@ -2,8 +2,8 @@
 
 
 ## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
-<div style="display:flex; flex-direction:row;">
-<ul style="flex-basis:50%; display:inline-block;">
+<div display="flex">
+<ul>
     <li>
         - 🔭 Check out my Stackoverflow: [Stackoverflow]!
     </li>
@@ -20,8 +20,8 @@
         - 🥅 2022 Goals: learn as you teach (my own app)
     </li>
 </ul>
-<div style="flex-basis:50%; display:inline-block;">
-    <img alt="Donut"  src="https://i.pinimg.com/originals/d2/64/44/d26444622b5e8c4a4700d16803a7b992.gif" />
+<div >
+    <img alt="Donut" src="https://i.pinimg.com/originals/d2/64/44/d26444622b5e8c4a4700d16803a7b992.gif" />
 </div>
 </div>
 
