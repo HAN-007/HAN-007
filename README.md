@@ -2,13 +2,13 @@
 
 
 ## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
-
+<div>
 - 🔭 Check out my Stackoverflow: [Stackoverflow]!
 - 🔭 Check out my Hackerrank: [Hackerrank]!
 - 🌱 I’m currently learning Kotlin and Flutter 🤣
 - 👯 I'm launching my own mobile app (very soon)
 - 🥅 2022 Goals: learn as you teach (my own app)
-- <img alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+</div>
 
 
 ### Connect with me:
