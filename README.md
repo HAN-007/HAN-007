@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Kotlin and Flutter 🤣
 - 👯 I'm launching my own mobile app (very soon)
 - 🥅 2022 Goals: learn as you teach (my own app)
+- <img alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 
 ### Connect with me:
