@@ -3,8 +3,8 @@
 
 ## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
 
-- 🔭 Check out my Stackoverflow: WOW[Stackoverflow]!
-- 🔭 Check out my Hackerrank: [Nice]!
+- 🔭 Check out my Stackoverflow: [Stackoverflow]!
+- 🔭 Check out my Hackerrank: [Hackerrank]!
 - 🌱 I’m currently learning Kotlin and Flutter 🤣
 - 👯 I'm launching my own mobile app (very soon)
 - 🥅 2022 Goals: learn as you teach (my own app)
@@ -12,20 +12,12 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hasan-h%C3%BCseyin-do%C4%9Fan-861048187/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hasan-h%C3%BCseyin-do%C4%9Fan-861048187/)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/dogan_hh/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/dogan_hh/)
 
 ### Languages and Tools:
 
