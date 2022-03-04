@@ -2,7 +2,7 @@
 
 
 ## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/64/44/d26444622b5e8c4a4700d16803a7b992.gif">
 
 <div style="display:flex; ">
 <div>
@@ -25,7 +25,7 @@
     </ul>
 </div>
 <div >
-    <img alt="Donut" src="https://i.pinimg.com/originals/d2/64/44/d26444622b5e8c4a4700d16803a7b992.gif" />
+>
 </div>
 </div>
 
