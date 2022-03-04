@@ -11,7 +11,7 @@
 - 👯 I'm launching my own mobile app (very soon)
 - 🥅 2022 Goals: learn as you teach (my own app)
 
-
+<br /><br /><br /><br /><br /><br />
 
 
 ### Connect with me:
