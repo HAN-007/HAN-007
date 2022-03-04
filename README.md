@@ -13,11 +13,11 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hasan-h%C3%BCseyin-do%C4%9Fan-861048187/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hasan-h%C3%BCseyin-do%C4%9Fan-861048187/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hasan-h%C3%BCseyin-do%C4%9Fan-861048187/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hasan-h%C3%BCseyin-do%C4%9Fan-861048187/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dogan_hh/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dogan_hh/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/dogan_hh/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/dogan_hh/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
