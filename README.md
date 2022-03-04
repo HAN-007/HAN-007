@@ -3,7 +3,11 @@
 
 ## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
 <div>
-- 🔭 Check out my Stackoverflow: [Stackoverflow]!
+<ul>
+    <li>
+        - 🔭 Check out my Stackoverflow: [Stackoverflow]!
+    </li>
+</ul>
 - 🔭 Check out my Hackerrank: [Hackerrank]!
 - 🌱 I’m currently learning Kotlin and Flutter 🤣
 - 👯 I'm launching my own mobile app (very soon)
