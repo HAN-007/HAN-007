@@ -2,25 +2,27 @@
 
 
 ## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
-<div style="display:flex;">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div style="display:flex; ">
 <div>
-<ul>
-    <li>
-        - 🔭 Check out my Stackoverflow: [Stackoverflow]!
-    </li>
-    <li>
-        - 🔭 Check out my Hackerrank: [Hackerrank]!
-    </li>
-    <li>
-        - 🌱 I’m currently learning Kotlin and Flutter 🤣
-    </li>
-    <li>
-        - 👯 I'm launching my own mobile app (very soon)
-    </li>
-    <li>
-        - 🥅 2022 Goals: learn as you teach (my own app)
-    </li>
-</ul>
+    <ul>
+        <li>
+            - 🔭 Check out my Stackoverflow: [Stackoverflow]!
+        </li>
+        <li>
+            - 🔭 Check out my Hackerrank: [Hackerrank]!
+        </li>
+        <li>
+            - 🌱 I’m currently learning Kotlin and Flutter 🤣
+        </li>
+        <li>
+            - 👯 I'm launching my own mobile app (very soon)
+        </li>
+        <li>
+            - 🥅 2022 Goals: learn as you teach (my own app)
+        </li>
+    </ul>
 </div>
 <div >
     <img alt="Donut" src="https://i.pinimg.com/originals/d2/64/44/d26444622b5e8c4a4700d16803a7b992.gif" />
@@ -38,8 +40,8 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/dogan_hh/#gh-dark-mode-only)
 
 ### Languages and Tools:
-<div style="display:flex;">
-    <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" style="padding-right:10px; margin-rıght:8px;" />
+<div style="display:flex; background-color: rgb(0, 0, 0);">
+    <img alt="Flutter" width="26px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" style="padding-right:10px; margin-rıght:8px;" />
     <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px; margin-rıght:8px;" />
     <img alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 </div>
