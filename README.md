@@ -4,30 +4,15 @@
 ## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/64/44/d26444622b5e8c4a4700d16803a7b992.gif">
 
-<div style="display:flex; ">
-<div>
-    <ul>
-        <li>
-            - 🔭 Check out my Stackoverflow: [Stackoverflow]!
-        </li>
-        <li>
-            - 🔭 Check out my Hackerrank: [Hackerrank]!
-        </li>
-        <li>
-            - 🌱 I’m currently learning Kotlin and Flutter 🤣
-        </li>
-        <li>
-            - 👯 I'm launching my own mobile app (very soon)
-        </li>
-        <li>
-            - 🥅 2022 Goals: learn as you teach (my own app)
-        </li>
-    </ul>
-</div>
-<div >
->
-</div>
-</div>
+
+    - 🔭 Check out my Stackoverflow: [Stackoverflow]!
+    - 🔭 Check out my Hackerrank: [Hackerrank]!
+    - 🌱 I’m currently learning Kotlin and Flutter 🤣
+    - 👯 I'm launching my own mobile app (very soon)
+
+    - 🥅 2022 Goals: learn as you teach (my own app)
+
+
 
 
 ### Connect with me:
