@@ -2,7 +2,7 @@
 
 
 ## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
-<div style="display:flex;">
+<div style="display:flex; flex-direction:row;">
 <ul style="flex-basis:50%; display:inline-block;">
     <li>
         - 🔭 Check out my Stackoverflow: [Stackoverflow]!
