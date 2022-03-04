@@ -22,7 +22,7 @@
 ### Languages and Tools:
 <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" style="padding-right:10px;" />
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br />
 <br />
 
