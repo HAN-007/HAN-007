@@ -1,7 +1,7 @@
 # Hi there, I'm Hasan Hüseyin Doğan👋 
 
 
-## I'm a Jr.Flutter Developer, Computer Vision Engineer!!
+## I'm a Jr.Android Developer!!
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/64/44/d26444622b5e8c4a4700d16803a7b992.gif">
 
 <br /><br /><br />
