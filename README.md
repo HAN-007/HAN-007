@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Kotlin 🤣
 - 👯 I'm launching my own mobile app (very soon)
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
 
 
 ### Connect with me:
@@ -28,8 +28,6 @@
     <img alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
     <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px; margin-rıght:8px;" />
 </div>
-<br />
-<br />
 
 [website]: https://codeSTACKr.com
 [Stackoverflow]: https://stackoverflow.com/users/14537788/han-007
