@@ -7,9 +7,8 @@
 <br /><br /><br />
 - 🔭 Check out my Stackoverflow: [Stackoverflow]!
 - 🔭 Check out my Hackerrank: [Hackerrank]!
-- 🌱 I’m currently learning Kotlin and Flutter 🤣
+- 🌱 I’m currently learning Kotlin 🤣
 - 👯 I'm launching my own mobile app (very soon)
-- 🥅 2022 Goals: learn as you teach (my own app)
 
 <br /><br /><br /><br /><br /><br />
 
